@@ -1,5 +1,8 @@
+<img style= "width:100vw; height:60vh;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3lmd3oxenY0d3M4c2N0YzVnd2FldXZ5cjk0ZXpjOWQ5bzhsOTRpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <h1 align="center">Hi 👋, I'm Bingi Santhosh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"/>
+
 
 <p align="left"> <a href="https://twitter.com/santhos96350245" target="blank"><img src="https://img.shields.io/twitter/follow/santhos96350245?logo=twitter&style=for-the-badge" alt="santhos96350245" /></a> </p>
 
